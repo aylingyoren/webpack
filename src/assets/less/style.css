@@ -1,0 +1,9 @@
+.less-demo {
+  margin-top: 40px;
+  padding: 20px;
+  border-top: 2px solid gray;
+}
+.less-demo h2 {
+  color: tomato;
+  text-align: center;
+}
